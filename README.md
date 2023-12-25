@@ -28,7 +28,7 @@ simply, our system provide three features. and user can access our system throug
  
 The following is the use case diagram for our project.
 
-### usecase diagram
+##### usecase diagram
 <img width="419" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/3bd2de24-c34b-4ff8-9616-44b620a4129b">
 
 
@@ -43,11 +43,11 @@ when designing, we devided our system into three pieces. each one is component o
 
 The following is component diagram and sequece diagram corresponding to each use case
 
-### component diagram
+##### component diagram
 <img width="842" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/172fe630-9eca-4609-85d6-eb52d5ef4f5e">
 
 
-### sequence diagram
+##### sequence diagram
 <img width="696" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/2b5be7d6-7f2f-4aff-86d8-f7f654362e41">
 
 <img width="680" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/ff015074-65ca-4425-acf7-fd44b81db94d">
