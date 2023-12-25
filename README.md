@@ -5,7 +5,7 @@ In this projects, our system connects different docker netwokrs using OpenFlow P
 
 users don't have to know container network(=docker network) because of group system(=network abstraction system). they only need to know following information.
 1. Containers of same group can communicate with each other
-2. To connect containers of different group, they can request our system
+2. To connect containers of different group, they can request to our system
 
 
 The diagram below represents the conceptual overview of our project.
@@ -15,7 +15,7 @@ The diagram below represents the conceptual overview of our project.
 
 
 # project environment
-This project is implemented using spring MVC framework and RestTemplate library to send Rest API call to SDN Controller 
+This project is implemented using spring MVC framework. 
    - language: JAVA 17
    - framwork: Spring 3.2.1
 
