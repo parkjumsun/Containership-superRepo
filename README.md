@@ -1,7 +1,7 @@
 # Containership 
 This project is an Container Network Autoconfiguration project designed to provide network abstraction with users who don't know container network system. 
 
-In this projects our system connect different docker netwokrs using OpenFlow Protocol. to do it, first we mapped docker network with OVS Switch and add flow rule based on IP-address using SDN Controller(ONOS)
+In this projects, our system connect different docker netwokrs using OpenFlow Protocol. to do it, first we mapped docker network with OVS Switch and add flow rule based on IP-address using SDN Controller(ONOS)
 
 users don't have to know container network(=docker network) because of group system(=network abstraction system). they only need to know two information
 1. containers of same group can communicate with each other
