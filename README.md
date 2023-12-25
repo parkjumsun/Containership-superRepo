@@ -3,11 +3,13 @@ This project is an Container Network Autoconfiguration project designed to provi
 
 we use SDN Controller(ONOS) to connect different network of containers and hide detailed network information
 
-users don't need to know container network(=docker network) because of group system(=network abstraction system). they only need to know two information
+users don't have to know container network(=docker network) because of group system(=network abstraction system). they only need to know two information
 1. containers of same group can communicate with each other
-2. to connect containers of different groups, they just request our system
+2. to connect containers of different group, they just request our system
+
 
 The diagram below represents the conceptual overview of our project.
+
 
 
 
