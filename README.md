@@ -73,7 +73,8 @@ Request
 
 
 
-![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e194465f-cfa2-4c57-afa2-6ebbb7c85f56)
+
+<img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e194465f-cfa2-4c57-afa2-6ebbb7c85f56">
 
 <img width="410" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/55564547-ca6a-46e7-8332-c869cd95ca99">
 
