@@ -34,7 +34,17 @@ when designing, we devided our system into three pieces. each one is component o
 2. SwitchConfigHandler: control switch environment. ex) connect container
 3. DockerConfigHandler: control docker environment. ex) deploy container
 
-The following is overview of class diagram and sequece diagram corresponding to each use case
+The following is component diagram and sequece diagram corresponding to each use case
+<img width="842" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/172fe630-9eca-4609-85d6-eb52d5ef4f5e">
+
+<img width="696" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/2b5be7d6-7f2f-4aff-86d8-f7f654362e41">
+
+<img width="680" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/ff015074-65ca-4425-acf7-fd44b81db94d">
+
+<img width="695" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/baa5c431-fd6e-4300-8716-5120f5ef26c0">
+
+<img width="913" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/697efd31-34c8-4ec1-b72f-a5dc18578530">
+
 
 
 
