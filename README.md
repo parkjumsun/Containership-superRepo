@@ -1,8 +1,13 @@
 # Containership 
-This project is an Container Network Autoconfiguration project designed to provide network abstraction with Users who don't know container network system.
+This project is an Container Network Autoconfiguration project designed to provide network abstraction with users who don't know container network system.
 
-we use SDN Controller(ONOS) to connect different network of containers.
+we use SDN Controller(ONOS) to connect different network of containers and hide detailed network information
 
+users don't need to know container network(=docker network) because of group system(=network abstraction system). they only need to know two information
+1. containers of same group can communicate with each other
+2. to connect containers of different groups, they just request our system
+
+The diagram below represents the conceptual overview of our project.
 
 
 
