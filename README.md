@@ -75,18 +75,28 @@ Ex)
 
 
 
+2. Retrieve Group information : get docker network information from Docker engine
+
 
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e194465f-cfa2-4c57-afa2-6ebbb7c85f56">
 
+Ex)
+###### Request
 <img width="410" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/55564547-ca6a-46e7-8332-c869cd95ca99">
 
+###### Response
 <img width="341" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/6176d2c5-911c-4914-8e8f-62976fb281eb">
 
 
 
+3. Retrieve Group information : get container information from Docker engine
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a5de7e27-3111-4521-8184-33f0b3bf3347">
+
+Ex)
+###### Request
 <img width="402" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/c4be5ae5-3787-447a-b36a-19ad2c10709c">
 
+###### Response
 <img width="361" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/707169ac-f5a9-40cd-a919-71205844a046">
 
 
