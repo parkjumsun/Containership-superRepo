@@ -15,7 +15,7 @@ The diagram below represents the conceptual overview of our project.
 
 
 # project environment
-This project is implemented using spring MVC framework. 
+Our system is implemented using spring MVC framework. 
    - language: JAVA 17
    - framwork: Spring 3.2.1
 
@@ -23,7 +23,7 @@ This project is implemented using spring MVC framework.
 # Features
 simply, our system provide three features. and user can access our system through REST API Call
 1. retrieve information: users can retrieve information of switch, group and container
-2. connect containers: users just specify container's name that they want to connect, then our system will connect them 
+2. connect containers: users just specify container's name that they want to connect, then our system will connect them. 
 3. deploy containers: it is possible to deploy container through our system. users just specify deployed container's information including container's name that they want to connect.
  
 The following is the use case diagram for our project.
