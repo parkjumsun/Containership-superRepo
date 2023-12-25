@@ -66,9 +66,9 @@ The following is component diagram and sequece diagram corresponding to each use
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/58fa1322-9d13-4c04-a70d-5d3fbc2802e5">
 
 Ex)
-Request
-<img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/fc97f257-376f-4887-b974-1a0941010cda">
+Request and Response
 
+<img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/fc97f257-376f-4887-b974-1a0941010cda">
 <img width="397" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/80ea5b55-9072-4c91-9877-8a8bb4545169">
 
 
