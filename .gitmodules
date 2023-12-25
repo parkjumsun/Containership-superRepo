@@ -1,0 +1,9 @@
+[submodule "Containership-sub3-dockerConfigHandler"]
+	path = Containership-sub3-dockerConfigHandler
+	url = https://github.com/parkjumsun/Containership-sub3-dockerConfigHandler.git
+[submodule "Containership-sub2-switchConfigHandler"]
+	path = Containership-sub2-switchConfigHandler
+	url = https://github.com/parkjumsun/Containership-sub2-switchConfigHandler.git
+[submodule "Containership-sub1-mainConfigHandler"]
+	path = Containership-sub1-mainConfigHandler
+	url = https://github.com/parkjumsun/Containership-sub1-mainConfigHandler.git
