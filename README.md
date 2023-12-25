@@ -81,7 +81,7 @@ The following is component diagram and sequece diagram corresponding to each use
    ###### Ex)Response
    <img width="341" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/6176d2c5-911c-4914-8e8f-62976fb281eb">
 
-
+<hr />
 
 ### 3. Retrieve Container information : get container information from Docker engine
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a5de7e27-3111-4521-8184-33f0b3bf3347">
@@ -92,8 +92,7 @@ The following is component diagram and sequece diagram corresponding to each use
    ###### Ex)Response
    <img width="361" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/707169ac-f5a9-40cd-a919-71205844a046">
 
-
-
+<hr />
 
 ### 4. Connect containers : connect containers of different network
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/7a32b150-4cfa-49bd-ad72-85d8e5eda607">
@@ -104,12 +103,17 @@ The following is component diagram and sequece diagram corresponding to each use
    ###### Ex)Response
    <img width="388" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/249016b8-986f-4286-a280-185c10d89462">
 
+<hr />
 
-<img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a98a3587-a5ba-404e-b1df-b6c476ce93d9">
-<img width="444" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/20abee42-3c7c-4d16-8da4-40d61c4a82be">
+### 5. Deploy containers : deploy container and connect this container with other containers of different network
 
+   <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a98a3587-a5ba-404e-b1df-b6c476ce93d9">
 
-<img width="417" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/cb333584-e648-4594-bbdc-598e2307414d">
+   ###### Ex)Request
+   <img width="444" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/20abee42-3c7c-4d16-8da4-40d61c4a82be">
+
+   ###### Ex)Response   
+   <img width="417" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/cb333584-e648-4594-bbdc-598e2307414d">
 
 
 
