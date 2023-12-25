@@ -60,6 +60,7 @@ The following is component diagram and sequece diagram corresponding to each use
 
 
 
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/58fa1322-9d13-4c04-a70d-5d3fbc2802e5)
 
 
 # How to use REST API Call
