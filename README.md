@@ -62,7 +62,7 @@ The following is component diagram and sequece diagram corresponding to each use
 
 
 
-# REST API Interface
+# How to use REST API Call
 
 
 
