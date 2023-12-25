@@ -62,11 +62,8 @@ The following is component diagram and sequece diagram corresponding to each use
 
 # How to use REST API Call
 1. Retrieve Switch information : get switch information from SDN Controller(ONOS)
-
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/58fa1322-9d13-4c04-a70d-5d3fbc2802e5">
 
-
-Ex)
 ###### Ex)Request
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/fc97f257-376f-4887-b974-1a0941010cda">
 
@@ -76,11 +73,8 @@ Ex)
 
 
 2. Retrieve Group information : get docker network information from Docker engine
-
-
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e194465f-cfa2-4c57-afa2-6ebbb7c85f56">
 
-Ex)
 ###### Ex)Request
 <img width="410" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/55564547-ca6a-46e7-8332-c869cd95ca99">
 
@@ -91,7 +85,6 @@ Ex)
 
 3. Retrieve Group information : get container information from Docker engine
 <img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a5de7e27-3111-4521-8184-33f0b3bf3347">
-
 
 ###### Ex)Request
 <img width="402" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/c4be5ae5-3787-447a-b36a-19ad2c10709c">
