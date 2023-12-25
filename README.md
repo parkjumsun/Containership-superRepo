@@ -64,6 +64,48 @@ The following is component diagram and sequece diagram corresponding to each use
 
 
 # How to use REST API Call
+1. Retrieve Switch information : get switch information from SDN Controller(ONOS)
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/58fa1322-9d13-4c04-a70d-5d3fbc2802e5)
+
+Ex)
+Request
+<img width="383" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/fc97f257-376f-4887-b974-1a0941010cda">
+
+<img width="397" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/80ea5b55-9072-4c91-9877-8a8bb4545169">
+
+
+
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e194465f-cfa2-4c57-afa2-6ebbb7c85f56)
+
+<img width="410" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/55564547-ca6a-46e7-8332-c869cd95ca99">
+
+<img width="341" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/6176d2c5-911c-4914-8e8f-62976fb281eb">
+
+
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a5de7e27-3111-4521-8184-33f0b3bf3347)
+
+<img width="402" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/c4be5ae5-3787-447a-b36a-19ad2c10709c">
+
+<img width="361" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/707169ac-f5a9-40cd-a919-71205844a046">
+
+
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/7a32b150-4cfa-49bd-ad72-85d8e5eda607)
+
+<img width="405" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/e5cc8f8a-b6bf-434e-a27b-70796da2ae31">
+
+<img width="388" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/249016b8-986f-4286-a280-185c10d89462">
+
+
+![image](https://github.com/parkjumsun/Containership-superRepo/assets/126436201/a98a3587-a5ba-404e-b1df-b6c476ce93d9)
+
+<img width="444" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/20abee42-3c7c-4d16-8da4-40d61c4a82be">
+
+
+<img width="417" alt="image" src="https://github.com/parkjumsun/Containership-superRepo/assets/126436201/cb333584-e648-4594-bbdc-598e2307414d">
+
+
+
+
 
 
 
