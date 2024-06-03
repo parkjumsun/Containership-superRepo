@@ -17,7 +17,7 @@ The diagram below represents the conceptual overview of our project.
 # project environment
 Our system is implemented using spring MVC framework. 
    - language: JAVA 17
-   - framwork: Spring 3.2.1
+   - framework: Spring 3.2.1
 
 
 # Features
